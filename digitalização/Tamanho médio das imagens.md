@@ -16,4 +16,4 @@
 - O teste acima foi feito com uma imagem A4 com documento quase totalmente preenchido entre colorido, preto e branco.
 
 ## Evidências
-- [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-760](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Tamanho%20médio%20das%20imagens.zip?raw=true)
+- [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-760](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Tamanho-medio-das-imagens.zip?raw=true)
