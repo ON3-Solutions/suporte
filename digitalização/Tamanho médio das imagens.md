@@ -1,6 +1,4 @@
-Tamanho médio das imagens
-
-
+# Tamanho médio das imagens
 
 |   | 100 DPI | 200 DPI  | 300 DPI |
 |:-:|:-:|:-:|--:|
@@ -8,8 +6,14 @@ Tamanho médio das imagens
 |  Cinza | 119.0 kB  | 346.0 kB  | 667.2 kB  |
 |  Colorido | 123.4 kB  | 405.6 kB  |  722.5 kB |
 
-Observações
-- Devido as configurações de cada Scanner, esses dados podem variar para mais ou menos (Em alguns testes a variação foi de 20%);
-- Os valores acima são para arquvios PDF/A;
-- Os dados de imagens coloridas podem variar por conta da quantidade de informação em cores contida na imagem.
-- Teste acima foi feito com uma imagem A4 com documento quase totalmente preenchido entre colorido, preto e branco.
+## Sugestões
+- Em uma estimativa de espaço em disco, adicionar 20%;
+
+## Observações
+- Devido às configurações de cada Scanner, esses dados podem variar para mais ou menos (Em alguns testes a variação foi de 20%);
+- Os valores acima são de arquvios PDF/A digitalizados no GedocImaging por um scanner Avision AD 250;
+- Os dados de imagens coloridas podem variar por conta da quantidade de informação em cores contida na imagem;
+- O teste acima foi feito com uma imagem A4 com documento quase totalmente preenchido entre colorido, preto e branco.
+
+## Evidências
+- [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-760](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Arquivos.zip?raw=true)
