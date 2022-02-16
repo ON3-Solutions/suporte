@@ -7,7 +7,7 @@
 |  Colorido | 123.4 kB  | 405.6 kB  |  722.5 kB |
 
 ## Sugestões
-- Em uma estimativa de espaço em disco, adicionar 20%;
+- Em uma estimativa de espaço em disco, adicionar 20% ou mais;
 
 ## Observações
 - Devido às configurações de cada Scanner, esses dados podem variar para mais ou menos (Em alguns testes a variação foi de 20%);
