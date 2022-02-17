@@ -16,7 +16,7 @@
 - O teste acima foi feito com uma imagem A4 com documento quase totalmente preenchido entre colorido, preto e branco.
 
 ## Calculadora
-- [Calculadora de estimativas de uso de espaço em disco](https://docs.google.com/spreadsheets/d/1zcPUWvO8xGoAt0CAR65vY0b9NygNjqdeH3zTvedNljY/edit?usp=sharing)
+- [Calculadora de estimativas de uso de espaço em disco](https://docs.google.com/spreadsheets/d/1zcPUWvO8xGoAt0CAR65vY0b9NygNjqdeH3zTvedNljY/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ## Evidências
 - [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-7160](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Tamanho-medio-das-imagens.zip?raw=true)
