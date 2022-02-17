@@ -11,9 +11,9 @@
 
 ## Observações
 - Devido às configurações de cada Scanner, esses dados podem variar para mais ou menos (Em alguns testes a variação foi de 20%);
-- Os valores acima são de arquvios PDF/A digitalizados no GedocImaging por um scanner Avision AD 250;
+- Os valores acima são de arquvios PDF/A digitalizados no GedocImaging por um scanner Fujitsu fi-7160;
 - Os dados de imagens coloridas podem variar por conta da quantidade de informação em cores contida na imagem;
 - O teste acima foi feito com uma imagem A4 com documento quase totalmente preenchido entre colorido, preto e branco.
 
 ## Evidências
-- [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-760](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Tamanho-medio-das-imagens.zip?raw=true)
+- [Arquivos PDF em 100, 200 e 300 DPI. Scanners utilizados: Avision AD 250 e Fujitsu fi-7160](https://github.com/ON3-Solutions/suporte/blob/main/digitalização/Tamanho-medio-das-imagens.zip?raw=true)
